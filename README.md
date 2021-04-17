@@ -1,6 +1,6 @@
 # web
 This is my first web page
-<Doctype! html>
+<!DOCTYPE html>
 <head>
   my first page
 </head>
